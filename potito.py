@@ -6,13 +6,16 @@
 
      print('Quien dijo que ser mamon es malo?')
 
+"""
+  
+  
+             LOH PESHO
+ 
+            ( . ) ( . )
+              )  .  (
+            (    V    )
 
-
-print("chulapi")
 
 """
 
-  HOLA HERMANO K WA
-
-"""
 
