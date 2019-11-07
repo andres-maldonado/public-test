@@ -3,7 +3,8 @@
      print("Me gustaria ser mojon para atraversarle el hoyo")
    
   elif nivel == 'mamón':
-     print('¿Quién dijo que ser mamón es malo?')
+
+     print('Quien dijo que ser mamon es malo?')
 
 
 
