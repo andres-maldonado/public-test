@@ -3,6 +3,7 @@
      print("Me gustaria ser mojon para atraversarle el hoyo")
    
   elif nivel == 'mamón':
+
      print('Quien dijo que ser mamon es malo?')
 
 
@@ -14,3 +15,4 @@ print("chulapi")
   HOLA HERMANO K WA
 
 """
+
